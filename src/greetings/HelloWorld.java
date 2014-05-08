@@ -18,6 +18,7 @@ public class HelloWorld {
         int[] numbers = new int[10];
         numbers[0] = 5;
         numbers[1] = 8;
+        numbers[2] = 2;
 
         System.out.print(numbers[2]);
     }
